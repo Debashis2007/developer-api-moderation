@@ -1,7 +1,7 @@
 # Design: Developer API Moderation
 
 **Project:** `developer-api-moderation`  
-**Parent system design:** [06 — Multi-Layer Safety / Moderation](../06-safety-moderation-pipeline.md) · [09 — Multi-Model Routing / API Platform](../09-multi-model-routing-api-platform.md)
+**Parent system design:** [06 — Multi-Layer Safety / Moderation](https://github.com/Debashis2007/developer-api-moderation/blob/main/06-safety-moderation-pipeline.md) · [09 — Multi-Model Routing / API Platform](https://github.com/Debashis2007/developer-api-moderation/blob/main/09-multi-model-routing-api-platform.md)
 
 ## 1. What this POC demonstrates
 
