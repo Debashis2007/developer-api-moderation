@@ -1,5 +1,7 @@
 # Use Case: Developer API Moderation
 
+**YouTube walkthrough:** [Developer Api Moderation — System Design #Shorts](https://youtu.be/qOXpDMFDfDc)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -49,6 +51,9 @@ Reuse unified policy plane from **06**; expose via **09** error taxonomy.
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Developer Api Moderation — System Design #Shorts](https://youtu.be/qOXpDMFDfDc)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
