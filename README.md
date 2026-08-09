@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [06 — Multi-Layer Safety / Moderation](../06-safety-moderation-pipeline.md)  
-**Also references:** [09 — API platform](../09-multi-model-routing-api-platform.md)
+**Parent system design:** [06 — Multi-Layer Safety / Moderation](./06-safety-moderation-pipeline.md)  
+**Also references:** [09 — API platform](./09-multi-model-routing-api-platform.md)
 
 ## Users & problem
 
@@ -47,7 +47,7 @@ Reuse unified policy plane from **06**; expose via **09** error taxonomy.
 
 - Silent 500 on safety block → never; return explicit safety error.
 - Policy drift undocumented → version policies; changelog.
-- Bypass via tools → tool outputs also moderated ([07](../07-agent-runtime-containment.md)).
+- Bypass via tools → tool outputs also moderated ([07](./07-agent-runtime-containment.md)).
 
 
 
